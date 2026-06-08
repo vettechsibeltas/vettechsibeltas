@@ -1,42 +1,62 @@
 # 🐾 Hi, I'm Sibel Ayten Taş! 🚀
-### Veterinary Technician & Data Analysis Enthusiast
+### Veterinary Health Technician & Data Analyst
 
-Based in İzmir, Turkey, I am a professional **Veterinary Technician** with 3 years of experience. I currently work in a specialized shelter environment, focusing on the care, medical treatment, and rehabilitation of disabled cats and dogs.
+Based in İzmir, Turkey, I am a professional **Veterinary Health Technician** with over 3 years of hands-on experience. I specialize in the care, medical support, and rehabilitation of injured, disabled, and special-needs animals. 
 
-Alongside my veterinary career, I am actively developing my skills in English language proficiency (IELTS) and data analytics to expand my professional horizons globally and integrate data-driven insights into my work.
+Driven by analytical thinking, I have also cross-trained in **Data Analytics**. I actively combine my strong attention to detail with data-driven problem solving, utilizing SQL, PostgreSQL, and data visualization tools to build analytical solutions. My ultimate goal is to secure a Veterinary Assistant or Animal Care position in Canada.
 
 ---
 
-## 🛠️ Skills & Focus Areas
+## 🛠️ Technical & Professional Skills
 
-* 🐾 **Veterinary Medicine & Care:** Rehabilitation for disabled and special-needs animals, clinical monitoring, patient care, and treatment administration.
-* 📊 **Data Analytics (Learning Process):** Fundamental SQL and BigQuery for analyzing marketing/performance data and optimizing queries.
-* 🌐 **Languages:** Turkish (Native), English (Advanced / Preparing for IELTS with a focus on academic reading and writing).
+* 🐾 **Veterinary Support:** Animal handling (cats, dogs, and birds like peacocks/pigeons), blood collection assistance, vaccination support, IV fluid administration, post-operative care, and basic wound care.
+* 📊 **Data Analytics:** SQL (PostgreSQL), Google BigQuery, Looker Studio, Tableau Public, Python, and Product Analytics.
+* 🧪 **Laboratory & Hygiene:** Certified in Good Laboratory Practices (GLP), Good Hygiene Practices (GHP), GMP, Method Validation, and ISO 17025.
+* 🌐 **Languages:** Turkish (Native), English (Intermediate / Actively advancing for international career pathways).
 
 ---
 
 ## 💼 Professional Experience
 
-### **Veterinary Technician**
-*Specialized Shelter & Care Center for Disabled Animals*
-*2023 — Present*
-* Managing daily medical treatments, physical therapy, and rehabilitation protocols for disabled, paralyzed, or special-needs cats and dogs.
-* Collaborating closely with veterinarians during clinical procedures, maintaining meticulous medication tracking, and ensuring high standards of wound care and patient hygiene.
+### **Animal Care Professional / Veterinary Assistant**
+*Gloria Private Animal Shelter, Turkey* *Feb 2023 — Present*
+* Provide daily medical care, physical rehabilitation, and tailored feeding routines for injured and special-needs animals.
+* Assist veterinarians with clinical procedures (blood collection, vaccinations, IV fluids) and strictly apply prescribed treatment plans.
+* Maintain rigorous infection control, disinfection, and hygiene standards across the facility.
+
+### **Intern Veterinary Assistant**
+*Municipal Animal Shelter, Turkey*
+* Assisted with patient examinations, supported basic clinical treatments, and gained comprehensive hands-on experience in shelter operations and animal handling.
 
 ---
 
-## 🎓 Education & Professional Development
+## 📊 Data Analytics Projects
 
-* **Associate Degree in Veterinary Laboratory and Health / Veterinary Technology**
-* **International Career & Language Preparation:** Intensive academic English (IELTS) preparation to support international job equivalency and global relocation projects.
-* **Data Management:** Independent studies in SQL database querying and BigQuery architectures to interpret business and performance metrics.
+### 🛍️ [E-commerce Funnel Analysis](https://github.com/vettechsibeltas/vettechsibeltas)
+*Tools: Google BigQuery, Looker Studio, SQL*
+* Extracted and cleaned GA4 event data using custom SQL queries to analyze user journeys.
+* Designed a dynamic Looker Studio dashboard to visualize conversion drop-off points and checkout bottlenecks.
+
+### 📈 [Revenue Insights Dashboard for SaaS](https://public.tableau.com/views/PROJJE2/Sheet7?:language=en-US&publish=yes&sid=&redirect=auth&:display_count=n&origin=viz_share_link)
+*Tools: PostgreSQL, Tableau Public, SQL*
+* Transformed user subscription data from a PostgreSQL schema to build actionable KPI metrics (MRR, churn rate, ARPU).
+* Developed an interactive Tableau dashboard to enhance stakeholder decision-making.
+
+---
+
+## 🎓 Education & Certifications
+
+* **Data Analytics Course** – GoIT *(2025 - Present)*
+* **Associate Degree in Veterinary Health Technician** – Anadolu University
+* **Bachelor's Degree in International Trade and Business** – Adnan Menderes University
+* **Key Certifications:** ISO 17025 Laboratory Training, GLP, GHP, GMP, and Biomedical Calibration Training.
 
 ---
 
 ## 🚴 Personal Interests
 
-* 🚴 **Cycling:** Going on long-distance bicycle tours (30+ kilometers) to explore new routes, stay active, and connect with nature on days off.
-* 📺 **Sci-Fi & Mystery Series:** Following thought-provoking, dystopian, and mystery television series like *Black Mirror*, *From*, and *La Brea*.
+* 🚴 **Cycling:** Going on long-distance bicycle tours (30+ kilometers) to explore coastal and historic routes.
+* 📺 **Sci-Fi & Mystery Series:** Analyzing complex plots and dystopian themes in series like *Black Mirror*, *From*, and *La Brea*.
 
 ---
 
